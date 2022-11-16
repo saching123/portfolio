@@ -5,5 +5,5 @@ This repository contains my academic projects listed below along with my researc
 
 ## Projects
 1. Effect of Friction Stir Welding on Crashworthiness of Top Hat Sections of Dual Phase Steel
-2. Ballistic Performance of Aluminium Polycarbonate Sandwich Plates
+2. Ballistic Performance of Aluminium Polycarbonate Sandwich Plates - Conference paper - FullPaperIncam.pdf
 
